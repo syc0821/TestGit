@@ -5,5 +5,6 @@ public class hihello {
 		System.out.println("안녕하세요!!!");
 		System.out.println("안녕하세요 2");
 		System.out.println("안녕하세요 3");
+		System.out.println("안녕하세요 4");
 	}
 }
